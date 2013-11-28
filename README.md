@@ -8,3 +8,5 @@ Description
 
 A java application which takes in a set of keys, formed by a product of two prime numbers, and outputs whether they are a strong or bad key.
 The application finds the factors of the keys, and compares them to a give minimum size to check if it is strong or bad.
+
+The full project instructions and explanation is included in a word file.
